@@ -23,7 +23,7 @@ Aplikacja posiada zestaw testów jednostkowych (`pytest`), które weryfikują po
 ## 🛠 Uruchomienie lokalne
 
 ### Wymagania
-* Python 3.9+
+* Python 3.12+
 * pip
 
 ### Instalacja i start
