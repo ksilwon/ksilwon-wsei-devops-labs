@@ -1,4 +1,5 @@
 fastapi
-uvicorn
-pytest
+uvicorn[standard]
+gunicorn
 httpx
+pytest
